@@ -1,0 +1,17 @@
+This is a description of do files
+a.- This do file is designed to facilitate of the following 8 do files: 
+      1.yn_nor.do  
+      2.yd_nor.do 
+      3.yc_nor.do
+      4.yf_nor.do  
+      5.yp_nor.do 
+      6.ym_nor.do 
+      7.TargetOportunidades.do
+      8.Infrastructure&Labels.do 
+
+
+b.- The aforementioned Do-files will be used to construct the Harmonized Dataset for Mexico's CEQ Assessment 2012. 
+c.- This do-file sets all the directories to be used for running each one of 8 do-files by using 
+    globals in the form "${name of the global}". The advantage of using this is that facilitate 
+  collaborative work. Anyone can easily run all the do files whether on IOS or windows by only 
+  changing the directory in this do file.. 
