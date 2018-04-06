@@ -37,15 +37,15 @@ A tool used during the quality control of CEQ assessment.  See document and temp
 - 6.1 IOexample.do
 
 ## **7. Stata Code Example to process harmonized database and generate MWB, by Scott, Martinez, Aranda & de la Rosa**
-- [*0.CEQ_MEX_Master.do*](0.CEQ_MEX_Master.do) Do file to facilitate running the following do files.
-- [*1.yn_nor.do*](1.yn_nor.do)  Estimates net market income.     
-- [*2.yd_nor.do*](2.yd_nor.do)  Estimates disposable income.     
-- [*3.yc_nor.do*](3.yc_nor.do)  Estimates consumable income.     
-- [*4.yf_nor.do*](4.yf_nor.do)  Process final income.     
-- [*5.yp_nor.do*](5.yp_nor.do)  Estimates market income plus pensions.     
-- [*6.ym_nor.do*](6.ym_nor.do)  Estimates market income.     
-- [*7.TargetOportunidades.do*](7.TargetOportunidades.do)  This do-file creates the target identificator for Oportunidades.
-- [*8.Infrastructure&Labels.do*](8.Infrastructure&Labels.do) This do-file add the infrastructure varibles, labels all the variables and harmonized the dataset
+- [*0.CEQ_MEX_Master.do*](do_files/0.CEQ_MEX_Master.do) Do file to facilitate running the following do files.
+- [*1.yn_nor.do*](do_files/1.yn_nor.do)  Estimates net market income.     
+- [*2.yd_nor.do*](do_files/2.yd_nor.do)  Estimates disposable income.     
+- [*3.yc_nor.do*](do_files/3.yc_nor.do)  Estimates consumable income.     
+- [*4.yf_nor.do*](do_files/4.yf_nor.do)  Process final income.     
+- [*5.yp_nor.do*](do_files/5.yp_nor.do)  Estimates market income plus pensions.     
+- [*6.ym_nor.do*](do_files/6.ym_nor.do)  Estimates market income.     
+- [*7.TargetOportunidades.do*](do_files/7.TargetOportunidades.do)  This do-file creates the target identificator for Oportunidades.
+- [*8.Infrastructure&Labels.do*](do_files/8.Infrastructure&Labels.do) This do-file add the infrastructure varibles, labels all the variables and harmonized the dataset
 
 # References
 
